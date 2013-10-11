@@ -1,0 +1,12 @@
+{
+  "name": "vvlc",
+  "description": "TODO",
+  "author": {
+    "name": "Guillaume Charmetant",
+    "email": "cguille.dev@gmail.com",
+    "url": "http://twitter.com/cGuille"
+  },
+  "dependencies": {
+    "cheerio": "~0.12.3"
+  }
+}
